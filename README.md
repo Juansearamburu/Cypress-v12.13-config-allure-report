@@ -1,0 +1,1 @@
+# Cypress-v12.13-config-allure-report
